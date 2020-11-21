@@ -2,8 +2,8 @@ import vk
 import datetime
 
 
-vkid = 229454969
-session1 = vk.AuthSession(access_token='711ac686711ac686711ac686e7716fcea37711a711ac6862eac2309d3733256ecbea721')
+vkid = 
+session1 = vk.AuthSession(access_token='')
 vk_api = vk.API(session1, v=5.62)
 
 def get_user_status():
